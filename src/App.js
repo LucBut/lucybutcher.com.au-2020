@@ -3,7 +3,7 @@ import { Container, Divider, Header, Image } from 'semantic-ui-react';
 
 const App = () => {
   return (
-    <Container text style={{ marginTop: '50px', marginBottom: '100px' }}>
+    <Container text style={{ marginTop: '50px', marginBottom: '150px' }}>
       <Image src="/images/Circle_FINAL-1200px.png" centered size="huge" />
 
       <Divider />

@@ -1,6 +1,8 @@
 import React from 'react';
 import { Container, Divider, Header, Image } from 'semantic-ui-react';
 
+import 'semantic-ui-css/semantic.min.css';
+
 const App = () => {
   return (
     <Container text style={{ marginTop: '50px', marginBottom: '150px' }}>

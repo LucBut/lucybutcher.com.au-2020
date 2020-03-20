@@ -6,6 +6,8 @@ const App = () => {
     <Container text style={{ marginTop: '50px', marginBottom: '100px' }}>
       <Image src="/images/Circle_FINAL-1200px.png" centered size="huge" />
 
+      <Divider />
+
       <Header as="h2">What am I?</Header>
       <p>
         Freelance medical / health / science copywriter, editor / proofreader

@@ -15,7 +15,8 @@ const App = () => {
       <Divider />
       <Header as="h2">Where am I?</Header>
       <p>Canberra-based / have laptop, will travel</p>
-      <hr />
+
+      <Divider />
       <Header as="h2">Why me?</Header>
       <p>Science and word nerd / deep thinker</p>
       <p>Thorough / enemy of typos / loves editing and proofreading</p>

@@ -78,7 +78,7 @@ const App = () => {
           Healthy Thinking
         </a>
         <br />
-        <a href="https://strangeattractor.random.productions/index.html">
+        <a href="https://podcasts.apple.com/au/podcast/strange-attractor/id1099562790">
           Strange Attractor podcast
         </a>
       </p>

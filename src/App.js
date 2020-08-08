@@ -69,20 +69,6 @@ const App = () => {
         or Andrew Wakefield. Either way, I’m not the writer for you.
       </p>
 
-      <p>
-        <b>In my spare time ...</b>
-        <br />
-        <a href="https://www.youtube.com/watch?v=pTkbxEihJCw">Moon Landing</a>
-        <br />
-        <a href="https://www.youtube.com/watch?v=tSRzsp4vAeo">
-          Healthy Thinking
-        </a>
-        <br />
-        <a href="https://podcasts.apple.com/au/podcast/strange-attractor/id1099562790">
-          Strange Attractor podcast
-        </a>
-      </p>
-
       <Divider />
       <Header as="h2">Testimonials</Header>
       <Image src="/images/testimonials_2018_nat.png" centered size="huge" />

@@ -61,7 +61,7 @@ const App = () => {
       </p>
 
       <p>
-        <b>I don’t email my portfolio.</b> I don't want to breach client confidentiality or any Rx communications regulations. But I’m always happy to chat about my experience.
+        <b>I don’t email my portfolio.</b> I respect client confidentiality and Rx communications regulations. But I’m always happy to chat about my experience.
       </p>
       <p>
         <b>I believe in science-based medicine and critical thinking.</b> I loathe Instagram influencers and their unreferenced health claims. I

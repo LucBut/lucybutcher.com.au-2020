@@ -18,7 +18,7 @@ const App = () => {
       <p>
       Freelance copy editor / proofreader
       </p>
-      <p> Specialising in health and medicine (but all subjects welcome)</p>
+      <p> Specialising in science, health and medicine (but all subjects welcome)</p>
       <p>Science graduate / AWARD School graduate</p>
 
       <Divider />

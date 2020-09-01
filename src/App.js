@@ -41,7 +41,7 @@ const App = () => {
       <Header as="h2">A bit more about me</Header>
 
       <p>
-        <b>I’m an experienced writer.</b> But I’ve realised that I prefer editing. Improving a document’s accuracy and readability makes me strangely happy. So for now this is my focus.
+        <b>I’m an experienced writer.</b> But I’ve realised that I prefer editing. Improving a document’s accuracy and readability makes me strangely happy. So for now, this is my focus. 
       </p>
       <p>
         <b>I like what I do.</b> I’m always learning and this keeps me curious.
@@ -64,14 +64,13 @@ const App = () => {
         <b>I don’t email my portfolio.</b> I respect client confidentiality and Rx communications regulations. But I’m always happy to chat about my experience.
       </p>
       <p>
-        <b>I believe in science-based medicine and critical thinking.</b> I loathe Instagram influencers and their unreferenced health claims. I
-        don’t work on anything dodgy or with flimsy evidence. You know who you
+        <b>I believe in science-based medicine and critical thinking.</b> I loathe Instagram influencers and their unreferenced health claims. I don’t work on anything dodgy or with flimsy evidence.</p>
+        <p>You know who you
         are. You probably use words like ‘natural’, ‘organic’ or ‘chemical free’
         in your marketing (for more information, see{' '}
-        <a href="https://isitchemicalfree.com">isitchemicalfree.com</a>). You
-        may even subscribe to the religious health teachings of people like Pete Evans
-        or Andrew Wakefield. Either way, I’m not the freelancer for you.
-      </p>
+        <a href="https://isitchemicalfree.com">isitchemicalfree.com</a>). </p>
+      <p>You may even subscribe to the religious health teachings of people like Pete Evans
+        or Andrew Wakefield. Either way, I’m not the freelancer for you.</p>
 
       <Divider />
       <Header as="h2">Testimonials</Header>

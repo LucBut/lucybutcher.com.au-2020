@@ -6,25 +6,30 @@ import 'semantic-ui-css/semantic.min.css';
 const App = () => {
   return (
     <Container text style={{ marginTop: '50px', marginBottom: '150px' }}>
-      <Image src="/images/Circle_FINAL-1200px.png" centered size="huge" />
+      {/* <Image src="/images/Circle_FINAL-1200px.png" centered size="huge" /> */}
+
+      <Header as="h2">Lucy Butcher</Header>
 
       <Divider />
 
       <Header as="h2">What am I?</Header>
       <p>
-        Freelance medical / health / science copywriter, editor / proofreader
+      Freelance copy editor / proofreader
       </p>
+      <p> Specialising in health and medicine (but all subjects welcome)</p>
       <p>Science graduate / AWARD School graduate</p>
 
       <Divider />
       <Header as="h2">Where am I?</Header>
-      <p>Canberra-based / have laptop, will travel</p>
+      <p>Canberra</p>
+      <p>Efficient, long-time remote worker</p>
 
       <Divider />
       <Header as="h2">Why me?</Header>
       <p>Science and word nerd / deep thinker</p>
-      <p>Thorough / enemy of typos / loves editing and proofreading</p>
+      <p>Thorough / enemy of typos</p>
       <p>Creative / imaginative</p>
+      <p>Diligent researcher / fact checker</p>
       <p>Experienced, but not jaded</p>
       <Divider />
       <Header as="h2">Contact</Header>
@@ -32,18 +37,19 @@ const App = () => {
       <a href="mailto:lb@lucybutcher.com.au">lb@lucybutcher.com.au</a>
       <Divider />
       <Header as="h2">A bit more about me</Header>
+
       <p>
-        <b>I like what I do.</b> I’m always learning. This keeps me curious and,
-        I hope, a better writer.
+        <b>I’m an experienced writer.</b> But I’ve realised that I prefer copy editing, fact checking, and proofreading. Improving a document’s accuracy and readability makes me strangely happy. I’m not saying I’ll never go back, but for now this is my focus.
+      </p>
+      <p>
+        <b>I like what I do.</b> I’m always learning and this keeps me curious.
       </p>
       <p>
         <b>I don’t say yes to every project.</b> Having a manageable workload
         means I can do my best for each client.
       </p>
       <p>
-        <b>When I'm working on your project it has my full attention.</b> I sit
-        in a quiet home office, not a hot desk in an open-plan space with
-        Spotify blaring. I can really concentrate.
+        <b>When I'm working on your project it has my full attention.</b> I sit in a quiet home office, not an open-plan workplace with Spotify blaring. I can really concentrate.
       </p>
       <p>
         <b>Work-life balance is important.</b> This is why I freelance. I don't
@@ -53,20 +59,16 @@ const App = () => {
       </p>
 
       <p>
-        <b>I don’t email my portfolio.</b> I don't want to breach any client
-        confidentiality and the whole ‘keeping prescription medical
-        communications out of the public domain’ thing. But I’m always happy to
-        chat through my experience on the phone or show you work examples in
-        person.
+        <b>I don’t email my portfolio.</b> I don't want to breach client confidentiality or any Rx communications regulations. But I’m always happy to chat about my experience.
       </p>
       <p>
-        <b>I believe in science-based medicine and critical thinking.</b> I
+        <b>I believe in science-based medicine and critical thinking.</b> I loathe Instagram influencers and their unreferenced health claims. I
         don’t work on anything dodgy or with flimsy evidence. You know who you
         are. You probably use words like ‘natural’, ‘organic’ or ‘chemical free’
         in your marketing (for more information, see{' '}
         <a href="https://isitchemicalfree.com">isitchemicalfree.com</a>). You
-        may even subscribe to the religious teachings of people like Pete Evans
-        or Andrew Wakefield. Either way, I’m not the writer for you.
+        may even subscribe to the religious health teachings of people like Pete Evans
+        or Andrew Wakefield. Either way, I’m not the freelancer for you.
       </p>
 
       <Divider />

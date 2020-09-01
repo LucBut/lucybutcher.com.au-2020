@@ -8,7 +8,9 @@ const App = () => {
     <Container text style={{ marginTop: '50px', marginBottom: '150px' }}>
       {/* <Image src="/images/Circle_FINAL-1200px.png" centered size="huge" /> */}
 
-      <Header as="h2">Lucy Butcher</Header>
+      <Image src="/images/Lucy Butcher_editor version.png" centered size="huge" />
+
+      {/* <Header as="h2">Lucy Butcher</Header> */}
 
       <Divider />
 

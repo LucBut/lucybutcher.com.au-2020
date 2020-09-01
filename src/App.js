@@ -41,7 +41,7 @@ const App = () => {
       <Header as="h2">A bit more about me</Header>
 
       <p>
-        <b>I’m an experienced writer.</b> But I’ve realised that I prefer editing. Improving a document’s accuracy and readability makes me strangely happy. I’m not saying I’ll never go back, but for now this is my focus.
+        <b>I’m an experienced writer.</b> But I’ve realised that I prefer editing. Improving a document’s accuracy and readability makes me strangely happy. So for now this is my focus.
       </p>
       <p>
         <b>I like what I do.</b> I’m always learning and this keeps me curious.

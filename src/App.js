@@ -33,10 +33,7 @@ const App = () => {
       <p>Creative / imaginative</p>
       <p>Diligent researcher / fact checker</p>
       <p>Experienced, but not jaded</p>
-      <Divider />
-      <Header as="h2">Contact</Header>
 
-      <a href="mailto:lb@lucybutcher.com.au">lb@lucybutcher.com.au</a>
       <Divider />
       <Header as="h2">A bit more about me</Header>
 
